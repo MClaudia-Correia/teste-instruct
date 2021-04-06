@@ -19,8 +19,7 @@
       <span>{{ company.company.bs }} </span>
     </div>
   </div>
-  </div>
-  </template>
+</template>
 
 
 <script>
@@ -39,7 +38,6 @@ export default {
 </script>
 
 <style lang="scss" scoped="true">
-
 body {
   font-family: 'Roboto', sans-serif;
 }
